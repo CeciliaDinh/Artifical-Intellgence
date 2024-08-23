@@ -1,1 +1,1 @@
-# Artifical-Intellgence
+# Face Mask Detection
